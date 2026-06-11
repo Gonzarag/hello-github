@@ -1,21 +1,24 @@
-# hello-github
-My first GitHub repository
-
 # Hello GitHub
 
-This is my first GitHub repository.
+My first GitHub repository.
 
-## About me
+## Description
 
-I am learning Git, GitHub, repositories, commits, branches, pull requests, README files, and GitHub Pages.
+This project is part of my GitHub learning journey. I created it to practice repositories, commits, branches, pull requests, README files, and GitHub Pages.
 
-## What I am learning
+## What I learned
 
-- Git
-- GitHub
-- Repositories
-- Commits
-- Branches
-- Pull requests
-- README files
-- GitHub Pages
+- How to create a GitHub account
+- How to create a repository
+- How to edit a README file
+- How to make commits
+- How to create branches
+- How to open and merge pull requests
+
+## Next goal
+
+Publish a simple webpage using GitHub Pages.
+
+## Author
+
+Created by Gonzarag.
